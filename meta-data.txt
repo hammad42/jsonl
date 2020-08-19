@@ -2,3 +2,7 @@ it has can took any string or json file and convert it into jsonl
 it contains two files
 *jsonl123.py  which takes in memory string and convert it into jsonl
 *string_jsonl.py it reads json file convert it into string and then into jsonl
+*json_api_jsonl.py it requests data from tingo api and convert its json into jsonl
+
+stock1.jsonl is output of  string_jsonl.py
+stock.jsonl is output of  json_api_jsonl.py

@@ -12,7 +12,7 @@ print(type(b))
    
 
 
-with jsonlines.open('stock.jsonl', 'w') as writer:
+with jsonlines.open('stock1.jsonl', 'w') as writer:
     writer.write(b)
     writer.close()
     
